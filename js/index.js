@@ -1,3 +1,23 @@
+console.log("hello world")
+
+var firstName = "mike"
+let surname = "maynard" 
+let age = 31
+const subject = "development"
+
+let message = "hello " + firstName + " " + surname + "'  You are " + age + " years old, and your subject is " + subject
+
+ console.log(message)
+
+
+console.log(firstName)
+console.log(surname)
+console.log(subject)
+
+
+
+
+
 let tim = 13;
 let jane = 23;
 let john = 10;
